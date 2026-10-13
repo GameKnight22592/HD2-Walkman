@@ -1,0 +1,11 @@
+/Companion/bin/
+/Companion/app.res
+/Support/WalkmanAudio.exe
+/Walkman_Mod.zip
+/Walkman.zip
+/Mod/
+/dist/
+/Notes/
+__pycache__/
+*.pyc
+.venv/

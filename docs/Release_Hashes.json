@@ -1,0 +1,29 @@
+{
+  "reference_release": "Walkman v0.3.7",
+  "files": {
+    "WalkmanAudio.exe": {
+      "sha256": "d067a2b88c75d0690ec36e963c8467188f376274243028402db45b4a5e599c21",
+      "size_bytes": 45568
+    },
+    "Walkman_Mod.zip": {
+      "sha256": "13f9a7d77a273869dd193ca42c762ec0ea374c836190577bab06caa26c52389d",
+      "size_bytes": 676906
+    },
+    "Walkman_Source.zip": {
+      "sha256": "15358bef5bbcdad2dd3eb4fb2edb6446ff1938adc6549b8e654116fb583a52e5",
+      "size_bytes": 7947480
+    },
+    "quarantined_companion_archive_user_report": {
+      "sha256": "8b6fd95bc6373c0c1ddf9dd64d1217832b9b7ff15628d947f158e110f984f0ab",
+      "size_bytes": 5062568,
+      "note": "Hash and size supplied in the Nexus/VirusTotal report; exact archive not available for byte comparison."
+    }
+  },
+  "runtime_source": {
+    "Companion.cs": "48e00faf2ef3031b390233395e4973621cea8572f04225bad04773e42f13a241",
+    "NativeAudio.cs": "554caf37fb0484eef2e6ea52587cb224784303cec7cf8bb078782755c3ac11c8",
+    "SongSpectrum.cs": "0b50ab9f0227e50d220b4d5f0cae07e2b81c0e00d2c4044751b7d1a45cf7055b",
+    "ShuffleQueue.cs": "95f22f6ab95f3084be4ab2ded2c51e072fb6e351f15dbfc9b067008369e805b5",
+    "walkman.lua": "438fea42dbdd61005935807ac501382674c535f7539a0184d1ee842daf060acf"
+  }
+}
