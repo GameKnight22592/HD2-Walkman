@@ -96,6 +96,6 @@ Installation targets `%LOCALAPPDATA%\HD2Walkman` and creates a desktop shortcut 
 
 ## Credits
 
-Thanks to FAL9000 for permission to use [SuperPhone](https://www.nexusmods.com/helldivers2/mods/17148), credited to Monica Webster on its Nexus page, as a code reference. Thanks to CowboyBingus for Bingus Shared Loader, Mod Options Menu and Mod Bindings Menu.
+Thanks to FAL9000 for permission to use [SuperPhone](https://www.nexusmods.com/helldivers2/mods/17148) as a reference. Thanks to CowboyBingus for Bingus Shared Loader, Mod Options Menu and Mod Bindings Menu.
 
 Bundled DejaVu fonts retain their license in `Source/FontLicense.txt`. Artwork and anthem audio are included as build inputs. This review package introduces no new blanket license for the project or third-party assets.
